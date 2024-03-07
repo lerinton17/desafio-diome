@@ -1,7 +1,7 @@
 console.log("Bem-vindo")
 
 let heroi = "lerinton17"
-let xpLvl = 10001
+let xpLvl
 
 if (xpLvl<1000) {
     xpLvl = "ferro"
